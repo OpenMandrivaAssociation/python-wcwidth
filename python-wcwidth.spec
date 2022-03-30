@@ -18,6 +18,7 @@ programs that expect to interpreted by a terminal emulator and wish to
 determine the printable width of a string on a Terminal.
 
 %package -n     python2-%{pypi_name}
+Summary:        Measures number of Terminal column cells of wide-character codes
 BuildRequires:  python2-devel
 BuildRequires:  python2-setuptools
 
