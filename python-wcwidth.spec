@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        0.2.5
-Release:        1
+Release:        2
 Summary:        Measures number of Terminal column cells of wide-character codes
 Group:		Development/Java
 License:        MIT
