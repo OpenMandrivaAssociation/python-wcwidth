@@ -1,7 +1,7 @@
 %global pypi_name wcwidth
 
 Name:           python-%{pypi_name}
-Version:        0.2.12
+Version:        0.2.13
 Release:        1
 Summary:        Measures number of Terminal column cells of wide-character codes
 Group:		Development/Java
