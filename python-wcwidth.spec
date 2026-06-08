@@ -1,13 +1,14 @@
-%global module wcwidth
+%define module wcwidth
 
 Name:		python-wcwidth
-Version:	0.7.0
+Version:	0.8.1
 Release:	1
 Summary:	Measures number of Terminal column cells of wide-character codes
 Group:		Development/Python
 License:	MIT
 URL:		https://github.com/jquast/wcwidth
 Source0:	https://pypi.io/packages/source/w/%{module}/%{module}-%{version}.tar.gz#/%{name}-%{version}.tar.gz
+
 BuildSystem:	python
 BuildArch:	noarch
 BuildRequires:	pkgconfig(python3)
