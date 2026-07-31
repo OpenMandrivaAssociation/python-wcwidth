@@ -1,7 +1,7 @@
 %define module wcwidth
 
 Name:		python-wcwidth
-Version:	0.8.1
+Version:	0.8.2
 Release:	1
 Summary:	Measures number of Terminal column cells of wide-character codes
 Group:		Development/Python
